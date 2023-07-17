@@ -1,10 +1,10 @@
 # Detect offensive and hateful speech in social media(Twitter).
 Neural net to detect hate-speech and offensive language
 
-# Approach 1:
+## Approach 1:
 - Uses LSTM with dropouts and layer normalization.
 
-# Approach 2: (TODO)
+## Approach 2: (TODO)
 - Use transformers (encoder only)
 
 This project utilizes a set of hand annotated datasets provided by [@crowdflower](https://data.world/crowdflower).
