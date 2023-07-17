@@ -1,4 +1,4 @@
-# Detect offensive and hateful speech in social media(Twitter).
+# Detect offensive and hateful speech on social media
 Neural net to detect hate-speech and offensive language
 
 ## Approach 1:
