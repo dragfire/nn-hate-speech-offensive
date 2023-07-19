@@ -18,7 +18,7 @@ python train.py \
 python classifier.py --text "All tilapias should be burnt alive"
 python classifier.py --text "All tilapias should be removed from extistence from this planet. They are useless "
 python classifier.py --text "they are useless"
-``
+```
 
 or 
 
