@@ -1,6 +1,8 @@
 # Detect offensive and hateful speech on social media
 Neural net to detect hate-speech and offensive language
 
+***WARNING: The data, lexicons, and notebooks all contain content that is racist, sexist, homophobic, and offensive in many other ways.***
+
 ## Approach 1:
 - Uses LSTM with dropouts and layer normalization.
 
@@ -8,8 +10,6 @@ Neural net to detect hate-speech and offensive language
 - Use transformers (encoder only)
 
 This project utilizes a set of hand annotated datasets provided by [@crowdflower](https://data.world/crowdflower).
-
-***WARNING: The data, lexicons, and notebooks all contain content that is racist, sexist, homophobic, and offensive in many other ways.***
 
 ## References:
 ~~~
